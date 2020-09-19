@@ -1,6 +1,7 @@
 # Next.js Boilerplate
 
 This boilerplate includes
+- Next.js
 - ESLint (linting)
 - Stylelint (linting)
 - Prettier (code formatting)
@@ -13,3 +14,6 @@ This boilerplate includes
 - SCSS support
 
 with all the tools configured as to my liking.
+
+Run `npm run dev` to start a development server, and `npm run build` to export 
+a production build.
